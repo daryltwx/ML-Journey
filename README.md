@@ -1,6 +1,6 @@
 # ML-Journey
 ---
-1. Coding
+|1. Coding|
 | Course Title                                                       | Link                                                                                             |
 |---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | 100 Days of Code: The Complete Python Pro Bootcamp                  | [100 Days of Code](https://www.udemy.com/course/100-days-of-code)                                 |
@@ -9,7 +9,7 @@
 
 ---
 
-2. Math
+|2. Math|
 | Course Title                                                       | Link                                                                                             |
 |---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Precalculus - College Algebra/Trigonometry                  | [Precalculus](https://youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&si=Baptx0vhu4T-xzu8)                                 |
