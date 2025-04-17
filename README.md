@@ -16,5 +16,4 @@
 | Calculus 1 by Professor Leonard         | [Calculus 1](https://youtube.com/playlist?list=PLF797E961509B4EB5&si=r6SAZD6MH_H3ZsYj) |
 | Calculus 2 by Professor Leonard         | [Calculus 2](https://youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-&si=KvccG0XBhhEkYcoN) |
 | Calculus 3 by Professor Leonard         | [Calculus 3](https://youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7&si=lOSI8VPSDZyJX2QL) |
-| MIT 18.06 Linear Algebra, Spring 2005
-                  | [MIT OpenCourseWare](https://youtube.com/playlist?list=PLE7DDD91010BC51F8&si=1oQtC_2xdQhrCufV)   |
+| MIT 18.06 Linear Algebra, Spring 2005 | [MIT OpenCourseWare](https://youtube.com/playlist?list=PLE7DDD91010BC51F8&si=1oQtC_2xdQhrCufV)   |
