@@ -20,6 +20,7 @@
 
 ---
 |3. Machine Learning|
+|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | CS50's Introduction to Artificial Intelligence with Python 2020                  | [CS50 AI 2020](https://youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv&si=ZF33n_A09LcG1_WB)                                 |
 | Machine Learning Introduction by DeepLearning.AI                  | [Coursera](https://www.coursera.org/specializations/machine-learning-introduction)                                 |
 | AI foundation by AI Singapore                  | [AIAP Foundation](https://aiap.sg/foundation/)                                 |
